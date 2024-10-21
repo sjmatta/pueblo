@@ -11,8 +11,12 @@ function createInteraction(prompt) {
 
 export const useChatStore = defineStore('chat', () => {
   const interactions = ref([])
+  const loading = ref(false)
 
   async function submitPrompt(prompt) {
+    // TODO: loading is not very safe- take another look
+    loading.value = true
+
     const interaction = createInteraction(prompt)
     interactions.value.unshift(interaction)
 
@@ -21,7 +25,9 @@ export const useChatStore = defineStore('chat', () => {
     const response = loremIpsum.generateSentences(2)
     interaction.loading = false
     interaction.response = response
+
+    loading.value = false
   }
 
-  return { interactions, submitPrompt }
+  return { interactions, loading, submitPrompt }
 })

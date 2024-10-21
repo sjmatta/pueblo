@@ -1,43 +1,48 @@
 <script setup>
-import { onMounted, onUnmounted } from 'vue'
+import { storeToRefs } from 'pinia'
+
 import ChatMessage from '@/ChatMessage.vue'
 import { useChatStore } from '@/stores/chat'
 
 const store = useChatStore()
-const interactions = store.interactions
-const submitPrompt = store.submitPrompt
+const { interactions, loading } = storeToRefs(store)
+const { submitPrompt } = store
 
 function handlePromptSubmit() {
-    if (prompt.value.trim() === '') {
+    if (loading.value || prompt.value.trim() === '') {
         return
     }
     submitPrompt(prompt.value)
     prompt.value = ''
 }
 
-let intervalId
-onMounted(() => {
-    intervalId = setInterval(() => {
-        submitPrompt('text')
-    }, 1_000)
-})
-
-onUnmounted(() => {
-    clearInterval(intervalId)
-})
-
 const prompt = defineModel()
+
+const vFocus = {
+    mounted: (el) => el.focus()
+}
 </script>
 
 <template>
-    <div class="grid grid-rows-2 auto-rows-min">
-        <div ref="messageContainer" class="absolute w-full h-full flex flex-col-reverse overflow-y-scroll space-y-5">
-            <ChatMessage v-for="interaction in interactions" :key="interaction.id" :interaction="interaction" />
+    <div class="flex h-screen">
+        <div class="w-1/4 bg-gray-100 p-4">
         </div>
-        <div ref="promptContainer" class="bottom-0 w-full bg-white p-4 shadow-lg flex items-center">
-            <input v-model="prompt" @keyup.enter="handlePromptSubmit" class="flex-grow p-2 border rounded-lg"
-                placeholder="Type your message..." />
-            <button @click="handlePromptSubmit" class="ml-2 p-2 bg-blue-500 text-white rounded-lg">Send</button>
+
+        <div class="flex flex-col w-3/4">
+            <div class="relative flex-grow bg-white">
+                <div class="absolute w-full h-full flex flex-col-reverse overflow-y-scroll p-20">
+                    <ChatMessage v-for="interaction in interactions" :key="interaction.id" :interaction="interaction" />
+                </div>
+            </div>
+
+            <div class="border-t border-gray-300 p-4 bg-gray-50 flex">
+                <input v-model="prompt" @keyup.enter="handlePromptSubmit" v-focus class="grow p-2 border rounded-lg"
+                    placeholder="Type your message..." />
+                <button @click="handlePromptSubmit"
+                class="ml-2 p-2 text-white rounded-lg enabled:bg-blue-500 disabled:bg-blue-300 disabled:cursor-not-allowed"
+                :disabled="loading"
+                >Send</button>
+            </div>
         </div>
     </div>
 </template>
