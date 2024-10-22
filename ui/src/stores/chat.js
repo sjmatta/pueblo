@@ -5,7 +5,7 @@ import { ChatOpenAI } from '@langchain/openai'
 import ChatInteraction from '@/ChatInteraction.js'
 import lotrData from '@/stores/lotr.json'
 
-const mode = 'remote'
+const mode = 'local'
 
 const model = new ChatOpenAI(
   { modelName: 'bedrock-claude-v3.5', openAIApiKey: 'x' },
@@ -19,8 +19,20 @@ function createInteraction(prompt) {
   return reactive(new ChatInteraction(prompt))
 }
 
-export const useChatStore = defineStore('chat', () => {
+function createFullPrompt(interactions, prompt) {
+    // Aggregate all previous messages into a single string
+    // Surely this whole thing is inefficient but it works for now
+    // The challenge is ensuring that the model has the full context, but keeping model details away from the view
+    // TODO: refactor this
+    const chatHistory = interactions.value
+      .toReversed() // for view purposes, we've been prepending to the array
+      .map(interaction => `User: ${interaction.prompt}\nAI: ${interaction.response}`)
+      .join('\n')
 
+   return `${chatHistory}\nUser: ${prompt}`
+}
+
+export const useChatStore = defineStore('chat', () => {
   async function submitPrompt(prompt) {
     // TODO: loading is not very safe- take another look
     loading.value = true
@@ -29,15 +41,8 @@ export const useChatStore = defineStore('chat', () => {
     interactions.value.unshift(interaction)
 
     if (mode !== 'local') {
-        // Aggregate all previous messages into a single string
-        const chatHistory = interactions.value.toReversed()
-        .map((interaction) => {
-          return `User: ${interaction.prompt}\nAI: ${interaction.response}`
-        })
-        .join('\n')
-
-      // Send the aggregate history with the current prompt to the model
-      const fullPrompt = `${chatHistory}\nUser: ${prompt}`
+      const fullPrompt = createFullPrompt(interactions, prompt)
+      console.log(fullPrompt)
       const stream = await model.stream(fullPrompt)
       for await (const chunk of stream) {
         interaction.response += chunk.content

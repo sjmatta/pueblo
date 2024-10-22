@@ -38,8 +38,9 @@ const vFocus = {
             <div class="border-t border-gray-300 p-4 bg-gray-50 flex">
                 <input v-model="prompt" @keyup.enter="handlePromptSubmit" v-focus class="grow p-2 border rounded-lg"
                     placeholder="Type your message..." />
+                <!-- TODO: spinning the button wasn't intended initially, but it was funny enough for now -->
                 <button @click="handlePromptSubmit"
-                class="ml-2 p-2 text-white rounded-lg enabled:bg-blue-500 disabled:bg-blue-300 disabled:cursor-not-allowed"
+                class="ml-2 p-2 text-white rounded-lg enabled:bg-blue-500 disabled:bg-blue-300 disabled:cursor-not-allowed disabled:animate-spin"
                 :disabled="loading"
                 >Send</button>
             </div>
