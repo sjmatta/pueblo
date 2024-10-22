@@ -1,6 +1,6 @@
 <script setup>
 import { BulletListLoader } from 'vue-content-loader'
-import ChatInteraction from '@/ChatInteraction'
+import ChatInteraction from './ChatInteraction'
 import { computed } from 'vue'
 
 const { interaction } = defineProps({
