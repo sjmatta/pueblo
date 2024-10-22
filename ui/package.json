@@ -13,6 +13,7 @@
     "format": "prettier --write src/"
   },
   "dependencies": {
+    "@langchain/core": "^0.3.13",
     "axios": "^1.7.7",
     "langchain": "^0.3.3",
     "lorem-ipsum": "^2.0.8",

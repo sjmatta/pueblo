@@ -5,20 +5,21 @@ import { ChatOpenAI } from '@langchain/openai'
 import ChatInteraction from '@/ChatInteraction.js'
 import lotrData from '@/stores/lotr.json'
 
-const mode = 'local'
+const mode = 'remote'
 
 const model = new ChatOpenAI(
   { modelName: 'bedrock-claude-v3.5', openAIApiKey: 'x' },
   { basePath: 'http://localhost:4000' },
 )
 
+const interactions = ref([])
+const loading = ref(false)
+
 function createInteraction(prompt) {
   return reactive(new ChatInteraction(prompt))
 }
 
 export const useChatStore = defineStore('chat', () => {
-  const interactions = ref([])
-  const loading = ref(false)
 
   async function submitPrompt(prompt) {
     // TODO: loading is not very safe- take another look
@@ -28,13 +29,22 @@ export const useChatStore = defineStore('chat', () => {
     interactions.value.unshift(interaction)
 
     if (mode !== 'local') {
-      const stream = await model.stream(prompt)
+        // Aggregate all previous messages into a single string
+        const chatHistory = interactions.value.toReversed()
+        .map((interaction) => {
+          return `User: ${interaction.prompt}\nAI: ${interaction.response}`
+        })
+        .join('\n')
+
+      // Send the aggregate history with the current prompt to the model
+      const fullPrompt = `${chatHistory}\nUser: ${prompt}`
+      const stream = await model.stream(fullPrompt)
       for await (const chunk of stream) {
         interaction.response += chunk.content
       }
     } else {
       for (const chunk of lotrData) {
-        await new Promise(resolve => setTimeout(resolve, 100)) // artificial delay
+        await new Promise(resolve => setTimeout(resolve, 100))
         interaction.response += chunk.content
       }
     }
