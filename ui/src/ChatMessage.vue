@@ -7,19 +7,20 @@ const { interaction } = defineProps({
     interaction: ChatInteraction,
 })
 
+const showLoadingSpinner = computed(() => interaction.response.length === 0)
 const formattedTimestamp = computed(() => interaction.createdTimestamp.toLocaleString())
 </script>
 
 <template>
     <div class="flex flex-col py-3">
-        <div>
+        <div class="bg-blue-100 text-blue-800 p-3 rounded-lg self-start max-w-xlg mb-2 ml-auto">
             {{ interaction.prompt }}
             <span class="text-gray-500 text-sm ml-2">{{ formattedTimestamp }}</span>
         </div>
         <div class="bg-gray-200 text-gray-800 p-3 rounded-lg self-start max-w-xlg">
             <!-- TODO: why do I have to use width, height here? -->
-            <span v-if="interaction.loading"><BulletListLoader width="300" height="100"/></span>
-            <span v-else>{{ interaction.response }}</span>
+            <span v-if="showLoadingSpinner"><BulletListLoader class="h-16 w-full"/></span>
+            <span v-else class="whitespace-pre-wrap">{{ interaction.response }}</span>
         </div>
     </div>
 </template>

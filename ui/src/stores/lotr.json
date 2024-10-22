@@ -1,0 +1,3857 @@
+[
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": "\"",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": "\"",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": "The Lord of the",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": "The Lord of the",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": " Rings\" is",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": " Rings\" is",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": " an",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": " an",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": " epic high",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": " epic high",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": "-",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": "-",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": "fantasy novel written by",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": "fantasy novel written by",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": " English",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": " English",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": " author J.R",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": " author J.R",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": ".R.",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": ".R.",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": " Tolkien. It",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": " Tolkien. It",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": " was",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": " was",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": " published in three",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": " published in three",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": " volumes between 1",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": " volumes between 1",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": "954 and ",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": "954 and ",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": "1955.",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": "1955.",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": " Here",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": " Here",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": " are some key points",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": " are some key points",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": " about the work",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": " about the work",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": ":\n\n1",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": ":\n\n1",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": ". Story",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": ". Story",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": ": It",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": ": It",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": " follows",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": " follows",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": " the hob",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": " the hob",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": "bit Fro",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": "bit Fro",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": "do Baggins as",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": "do Baggins as",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": " he an",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": " he an",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": "d a",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": "d a",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": " fellowship emb",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": " fellowship emb",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": "ark on a quest",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": "ark on a quest",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": " to destroy the One",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": " to destroy the One",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": " Ring an",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": " Ring an",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": "d defeat",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": "d defeat",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": " the Dark Lor",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": " the Dark Lor",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": "d Sauron.",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": "d Sauron.",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": "\n\n2. Setting",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": "\n\n2. Setting",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": ": The story takes",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": ": The story takes",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": " place in Middle-",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": " place in Middle-",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": "earth, a fictional",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": "earth, a fictional",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": " worl",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": " worl",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": "d create",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": "d create",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": "d by Tolkien",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": "d by Tolkien",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": " with",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": " with",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": " its own languages",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": " its own languages",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": ", races",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": ", races",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": ", and mythology",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": ", and mythology",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": ".",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": ".",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": "\n\n3. Characters",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": "\n\n3. Characters",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": ": Notable",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": ": Notable",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": " characters include Fr",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": " characters include Fr",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": "odo, Gan",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": "odo, Gan",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": "dalf, Arag",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": "dalf, Arag",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": "orn, Leg",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": "orn, Leg",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": "olas, Gim",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": "olas, Gim",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": "li, an",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": "li, an",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": "d G",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": "d G",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": "ollum,",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": "ollum,",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": " among many",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": " among many",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": " others.",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": " others.",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": "\n\n4.",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": "\n\n4.",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": " Themes: The story",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": " Themes: The story",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": " explores themes of goo",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": " explores themes of goo",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": "d vs",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": "d vs",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": ".",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": ".",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": " evil, friendship",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": " evil, friendship",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": ", hero",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": ", hero",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": "ism, power",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": "ism, power",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": ", and corruption",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": ", and corruption",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": ".\n\n5.",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": ".\n\n5.",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": " Impact",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": " Impact",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": ": It's",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": ": It's",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": " considered one",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": " considered one",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": " of the most influential",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": " of the most influential",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": " works of fantasy literature",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": " works of fantasy literature",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": " and has inspired numerous",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": " and has inspired numerous",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": " adaptations, including",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": " adaptations, including",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": " Peter",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": " Peter",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": " Jackson's awar",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": " Jackson's awar",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": "d-winning film trilogy",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": "d-winning film trilogy",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": " (2001-",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": " (2001-",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": "2003).",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": "2003).",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": "\n\n6. Backgroun",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": "\n\n6. Backgroun",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": "d: The",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": "d: The",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": " book is",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": " book is",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": " a",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": " a",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": " sequel",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": " sequel",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": " to Tolkien",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": " to Tolkien",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": "'s earlier work \"",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": "'s earlier work \"",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": "The Hobbit",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": "The Hobbit",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": "\" (",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": "\" (",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": "1937) an",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": "1937) an",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": "d draws",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": "d draws",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": " on",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": " on",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": " his",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": " his",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": " extensive",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": " extensive",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": " knowledge of linguistics",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": " knowledge of linguistics",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": " an",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": " an",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": "d mythology.\n\n7",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": "d mythology.\n\n7",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": ". Cultural",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": ". Cultural",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": " significance",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": " significance",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": ": The series",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": ": The series",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": " has ha",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": " has ha",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": "d a profound impact on",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": "d a profound impact on",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": " popular culture, influ",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": " popular culture, influ",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": "encing literature",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": "encing literature",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": ", art",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": ", art",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": ", music",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": ", music",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": ", and games",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": ", and games",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": ".\n\n8",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": ".\n\n8",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": ". Popularity",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": ". Popularity",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": ": It has sol",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": ": It has sol",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": "d over",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": "d over",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": " 150",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": " 150",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": " million copies worldwide",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": " million copies worldwide",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": " and has",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": " and has",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": " been translate",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": " been translate",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": "d into numerous",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": "d into numerous",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": " languages.\n\n\"",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": " languages.\n\n\"",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": "The Lord of the",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": "The Lord of the",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": " Rings\" remains",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": " Rings\" remains",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": " a belove",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": " a belove",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": "d classic an",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": "d classic an",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": "d continues",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": "d continues",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": " to capt",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": " to capt",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": "ivate readers an",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": "ivate readers an",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": "d viewers",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": "d viewers",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": " decades",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": " decades",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": " after its initial publication",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": " after its initial publication",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": ".",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": ".",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": "",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": "",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "finish_reason": "stop",
+        "usage": {}
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": "",
+        "tool_call_chunks": [],
+        "additional_kwargs": {},
+        "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+        "response_metadata": {
+          "usage": {
+            "completion_tokens": 313,
+            "prompt_tokens": 14,
+            "total_tokens": 327
+          }
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": []
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": "",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "prompt": 0,
+        "completion": 0,
+        "usage": {
+          "completion_tokens": 313,
+          "prompt_tokens": 14,
+          "total_tokens": 327
+        }
+      },
+      "id": "chatcmpl-b8091b38-ce01-467c-91e7-7d03b0116c6f",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": []
+    },
+    {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": "",
+        "response_metadata": {
+          "usage": {
+            "completion_tokens": 313,
+            "prompt_tokens": 14,
+            "total_tokens": 327
+          }
+        },
+        "usage_metadata": {
+          "input_tokens": 14,
+          "output_tokens": 313,
+          "total_tokens": 327,
+          "input_token_details": {},
+          "output_token_details": {}
+        },
+        "tool_calls": [],
+        "invalid_tool_calls": [],
+        "tool_call_chunks": [],
+        "additional_kwargs": {}
+      },
+      "lc_namespace": [
+        "langchain_core",
+        "messages"
+      ],
+      "content": "",
+      "additional_kwargs": {},
+      "response_metadata": {
+        "usage": {
+          "completion_tokens": 313,
+          "prompt_tokens": 14,
+          "total_tokens": 327
+        }
+      },
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "tool_call_chunks": [],
+      "usage_metadata": {
+        "input_tokens": 14,
+        "output_tokens": 313,
+        "total_tokens": 327,
+        "input_token_details": {},
+        "output_token_details": {}
+      }
+    }
+  ]

@@ -1,12 +1,19 @@
 import { ref, reactive } from 'vue'
 import { defineStore } from 'pinia'
-import { LoremIpsum } from 'lorem-ipsum'
-import ChatInteraction from '@/ChatInteraction.js'
+import { ChatOpenAI } from '@langchain/openai'
 
-const loremIpsum = new LoremIpsum()
+import ChatInteraction from '@/ChatInteraction.js'
+import lotrData from '@/stores/lotr.json'
+
+const mode = 'local'
+
+const model = new ChatOpenAI(
+  { modelName: 'bedrock-claude-v3.5', openAIApiKey: 'x' },
+  { basePath: 'http://localhost:4000' },
+)
 
 function createInteraction(prompt) {
-  return reactive(new ChatInteraction(prompt));
+  return reactive(new ChatInteraction(prompt))
 }
 
 export const useChatStore = defineStore('chat', () => {
@@ -20,12 +27,19 @@ export const useChatStore = defineStore('chat', () => {
     const interaction = createInteraction(prompt)
     interactions.value.unshift(interaction)
 
-    await new Promise(r => setTimeout(r, 2000))
+    if (mode !== 'local') {
+      const stream = await model.stream(prompt)
+      for await (const chunk of stream) {
+        interaction.response += chunk.content
+      }
+    } else {
+      for (const chunk of lotrData) {
+        await new Promise(resolve => setTimeout(resolve, 100)) // artificial delay
+        interaction.response += chunk.content
+      }
+    }
 
-    const response = loremIpsum.generateSentences(2)
     interaction.loading = false
-    interaction.response = response
-
     loading.value = false
   }
 

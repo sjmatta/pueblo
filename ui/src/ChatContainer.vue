@@ -25,10 +25,10 @@ const vFocus = {
 
 <template>
     <div class="flex h-screen">
-        <div class="w-1/4 bg-gray-100 p-4">
+        <div class="w-1/5 bg-gray-100 p-4">
         </div>
 
-        <div class="flex flex-col w-3/4">
+        <div class="flex flex-col w-4/5">
             <div class="relative flex-grow bg-white">
                 <div class="absolute w-full h-full flex flex-col-reverse overflow-y-scroll p-20">
                     <ChatMessage v-for="interaction in interactions" :key="interaction.id" :interaction="interaction" />
