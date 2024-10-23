@@ -42,7 +42,7 @@ function handleDeleteChat(chat) {
         </div>
         <div v-for="chat in sortedChatList" :key="chat.id" @click="loadChat(chat.id)"
             class="bg-green-200 text-green-800 p-3 rounded-lg flex justify-between items-center text-xs">
-            <span class="cursor-pointer">{{ chat.title ? chat.title : 'Untitled Chat' }}</span>
+            <span>{{ chat.title ? chat.title : 'Untitled Chat' }}</span>
             <span class="ml-auto">{{ chat.lastUpdated.toLocaleString() }}</span>
             <Menu as="div" class="relative ml-3">
                 <MenuButton class="flex items-center p-2 rounded-full hover:bg-gray-200" @click.stop>

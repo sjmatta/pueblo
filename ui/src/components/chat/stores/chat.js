@@ -4,10 +4,10 @@ import { ChatOpenAI } from '@langchain/openai'
 import lotrData from './lotr.json'
 import { v4 as uuidv4 } from 'uuid'
 
-const mode = 'local'
+const mode = 'remote'
 
 const model = new ChatOpenAI(
-  { modelName: 'bedrock-claude-v3.5', openAIApiKey: 'x' },
+  { modelName: 'gpt-4', openAIApiKey: 'x' },
   { basePath: 'http://localhost:4000' },
 )
 
@@ -29,15 +29,15 @@ export const useChatStore = defineStore(
   () => {
     const chat = ref({
       id: uuidv4(),
-      title: 'Untitled Chat',
+      title: null,
       interactions: [],
       lastUpdated: new Date(),
     })
-    const chats = ref([])
+    const chats = ref({})
     const loading = ref(false)
 
     const chatList = computed(() => {
-      return chats.value.map(c => ({
+      return Object.values(chats.value).map(c => ({
         id: c.id,
         title: c.title,
         lastUpdated: c.lastUpdated,
@@ -56,30 +56,23 @@ export const useChatStore = defineStore(
     }
 
     function saveChat() {
-      const existingChat = chats.value.find(c => c.id === chat.value.id)
-      if (existingChat) {
-        Object.assign(existingChat, { ...chat.value })
-      } else {
-        chats.value.push({ ...chat.value })
-      }
+      chats.value[chat.value.id] = { ...chat.value }
     }
 
     function loadChat(id) {
-      const existingChat = chats.value.find(c => c.id === id)
-      if (existingChat) {
-        chat.value = { ...existingChat }
+      if (chats.value[id]) {
+        chat.value = { ...chats.value[id] }
       }
     }
 
     function editChat(id, title) {
-      const existingChat = chats.value.find(c => c.id === id)
-      if (existingChat) {
-        existingChat.title = title
+      if (chats.value[id]) {
+        chats.value[id].title = title
       }
     }
 
     function deleteChat(id) {
-      chats.value = chats.value.filter(c => c.id !== id)
+      delete chats.value[id]
     }
 
     async function submitPrompt(prompt) {
@@ -87,7 +80,7 @@ export const useChatStore = defineStore(
 
       loading.value = true
 
-      saveChat()
+      saveChat() // TODO: this is a hack for now, but it works
 
       const interaction = reactive({
         prompt,
@@ -98,6 +91,12 @@ export const useChatStore = defineStore(
       chat.value.interactions.unshift(interaction)
 
       if (mode !== 'local') {
+        if (!chat.value.title) {
+            const titlePrompt = `Based on the following prompt, provide a two word title:\n\n${prompt}`
+            const response = await model.invoke(titlePrompt)
+            editChat(chat.value.id, response.content.replace(/['"]+/g, '').trim())
+        }
+
         const fullPrompt = createFullPrompt(chat, prompt)
         const stream = await model.stream(fullPrompt)
         for await (const chunk of stream) {
