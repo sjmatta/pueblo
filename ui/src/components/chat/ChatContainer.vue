@@ -43,7 +43,7 @@ const sortedChatList = computed(() => {
         <div class="flex flex-col w-4/5">
             <div class="relative flex-grow bg-white">
                 <div class="absolute w-full h-full flex flex-col-reverse overflow-y-scroll p-20">
-                    <ChatMessage v-for="interaction in chat" :key="interaction.id" :interaction="interaction" />
+                    <ChatMessage v-for="interaction in chat.interactions" :key="interaction.id" :interaction="interaction" />
                 </div>
             </div>
 

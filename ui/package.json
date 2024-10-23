@@ -18,6 +18,7 @@
     "langchain": "^0.3.3",
     "lorem-ipsum": "^2.0.8",
     "pinia": "^2.2.4",
+    "pinia-plugin-persistedstate": "^4.1.1",
     "uuid": "^10.0.0",
     "vue": "^3.5.12",
     "vue-content-loader": "^2.0.1"

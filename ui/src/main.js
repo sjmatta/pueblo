@@ -1,11 +1,11 @@
 import { createApp } from 'vue'
 import { createPinia } from 'pinia'
+import piniaPluginPersistedstate from 'pinia-plugin-persistedstate'
 import App from '@/App.vue'
 
 import '@/assets/index.css'
 
-const app = createApp(App)
+const store = createPinia()
+store.use(piniaPluginPersistedstate)
 
-app.use(createPinia())
-
-app.mount('#app')
+createApp(App).use(store).mount('#app')
