@@ -1,10 +1,9 @@
 <script setup>
 import { BulletListLoader } from 'vue-content-loader'
-import ChatInteraction from './ChatInteraction'
 import { computed } from 'vue'
 
 const { interaction } = defineProps({
-    interaction: ChatInteraction,
+    interaction: Object,
 })
 
 const showLoadingSpinner = computed(() => interaction.response.length === 0)

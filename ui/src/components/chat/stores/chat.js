@@ -2,6 +2,7 @@ import { ref, reactive, computed } from 'vue'
 import { defineStore } from 'pinia'
 import { ChatOpenAI } from '@langchain/openai'
 import lotrData from './lotr.json'
+import { v4 as uuidv4 } from 'uuid'
 
 const mode = 'local'
 
@@ -26,13 +27,13 @@ function createFullPrompt(chat, prompt) {
 export const useChatStore = defineStore(
   'chat',
   () => {
-    const chats = ref([])
     const chat = ref({
-      id: Date.now(),
+      id: uuidv4(),
       title: 'Untitled Chat',
       interactions: [],
-      lastUpdated: null,
+      lastUpdated: new Date(),
     })
+    const chats = ref([])
     const loading = ref(false)
 
     const chatList = computed(() => {
@@ -46,20 +47,18 @@ export const useChatStore = defineStore(
     function resetChat() {
       if (!loading.value) {
         chat.value = {
-          id: Date.now(),
-          title: 'Untitled Chat',
+          id: uuidv4(),
+          title: null,
           interactions: [],
-          lastUpdated: null,
+          lastUpdated: new Date(),
         }
       }
     }
 
     function saveChat() {
-      const existingChatIndex = chats.value.findIndex(
-        c => c.id === chat.value.id,
-      )
-      if (existingChatIndex !== -1) {
-        chats.value[existingChatIndex] = { ...chat.value }
+      const existingChat = chats.value.find(c => c.id === chat.value.id)
+      if (existingChat) {
+        Object.assign(existingChat, { ...chat.value })
       } else {
         chats.value.push({ ...chat.value })
       }
@@ -72,10 +71,23 @@ export const useChatStore = defineStore(
       }
     }
 
+    function editChat(id, title) {
+      const existingChat = chats.value.find(c => c.id === id)
+      if (existingChat) {
+        existingChat.title = title
+      }
+    }
+
+    function deleteChat(id) {
+      chats.value = chats.value.filter(c => c.id !== id)
+    }
+
     async function submitPrompt(prompt) {
       if (loading.value) return
 
       loading.value = true
+
+      saveChat()
 
       const interaction = reactive({
         prompt,
@@ -111,8 +123,9 @@ export const useChatStore = defineStore(
       loading,
       submitPrompt,
       resetChat,
-      saveChat,
       loadChat,
+      editChat,
+      deleteChat,
     }
   },
   { persist: true },
