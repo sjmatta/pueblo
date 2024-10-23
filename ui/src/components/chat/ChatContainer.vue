@@ -1,14 +1,14 @@
 <script setup>
-import { computed } from 'vue'
 import { storeToRefs } from 'pinia'
 
+import ChatList from './ChatList.vue'
 import ChatMessage from './ChatMessage.vue'
 import { useChatStore } from '@/components/chat/stores/chat'
 import vFocus from '@/directives/v-focus'
 
 const store = useChatStore()
-const { chatList, chat, loading } = storeToRefs(store)
-const { submitPrompt, resetChat, saveChat, loadChat } = store
+const { chat, loading } = storeToRefs(store)
+const { submitPrompt } = store
 
 function handlePromptSubmit() {
     if (loading.value || prompt.value.trim() === '') {
@@ -21,24 +21,11 @@ function handlePromptSubmit() {
 const prompt = defineModel()
 
 const buttonClasses = ["p-2", "rounded-lg", "transition", "ease-in-out", "delay-50", "hover:scale-105"]
-
-const sortedChatList = computed(() => {
-    return chatList.value.slice().sort((a, b) => b.lastUpdated - a.lastUpdated)
-})
 </script>
 
 <template>
     <div class="flex h-screen">
-        <div class="w-1/5 bg-gray-100 p-4 flex flex-col space-y-1">
-            <button @click="saveChat" class="text-white bg-blue-500" :class="buttonClasses">Save Chat</button>
-            <button @click="loadChat" class="text-white bg-blue-500" :class="buttonClasses">Load Chat</button>
-            <button @click="resetChat" class="text-white bg-red-500" :class="buttonClasses">Reset Chat</button>
-            <div class="text-gray-500 text-sm pt-10">Chats:</div>
-            <button v-for="chat in sortedChatList" :key="chat.id" @click="loadChat(chat.id)"
-                class="bg-blue-100 text-blue-800 p-3 rounded-lg flex justify-between" :class="buttonClasses">
-                <span>{{ chat.title }}</span><span class="ml-auto">{{ chat.lastUpdated.toLocaleString() }}</span>
-            </button>
-        </div>
+        <ChatList class="w-1/5 bg-gray-100 p-4 flex flex-col space-y-1" />
 
         <div class="flex flex-col w-4/5">
             <div class="relative flex-grow bg-white">
